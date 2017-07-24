@@ -6,6 +6,8 @@
 
 做了一个阶段小案例出来
 
+基于MyEclipse开发工具
+
 ## Jsp + Servlet + JavaBean MVC小例子
 
 用户提交用户名和密码给后台，后台去数据库中匹配，
