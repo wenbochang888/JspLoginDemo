@@ -8,7 +8,7 @@
 
 基于MyEclipse开发工具
 
-## Jsp + Servlet + JavaBean MVC小例子
+# Jsp + Servlet + JavaBean MVC小例子
 
 用户提交用户名和密码给后台，后台去数据库中匹配，
 
@@ -18,7 +18,7 @@
 
 利用了MVC三层模型
 
-
-
-
+# 2017年8月1日11:52:17
+放在了centos的tomcat的服务器上测试成功
+地址在 http://120.77.254.6:8080/JspLoginDemo/
 
