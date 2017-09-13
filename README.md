@@ -22,3 +22,12 @@
 放在了centos的tomcat的服务器上测试成功
 地址在 http://120.77.254.6:8080/JspLoginDemo/
 
+# 2017年9月13日16:32:19 更新
+
+加入了新的Demo, 所有代码都是纯手工打。
+
+运行了一天后发觉mysql会自动关闭（真的是，运行会出很多错呢）
+
+界面真心丑啊，哭死。要去学学Bootstrap才行啊
+
+![Image text](https://github.com/wenbochang888/DiaryRecord/blob/master/img/ArrayListAdd.png)
