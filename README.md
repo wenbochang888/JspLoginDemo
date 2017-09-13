@@ -31,3 +31,5 @@
 界面真心丑啊，哭死。要去学学Bootstrap才行啊
 
 ![Image text](https://github.com/wenbochang888/JspLoginDemo/blob/master/kkk.png)
+
+地址在 http://120.77.254.6:8080/kkk/
