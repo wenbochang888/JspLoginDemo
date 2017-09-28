@@ -39,3 +39,25 @@
 超级标准的MVC设计模式
 
 ![Image text](https://github.com/wenbochang888/MVC/blob/master/img/MVC.png)
+
+感觉之前的都白学了，自从发现了尚硅谷的视频，发觉发现了新大陆。
+
+以前写的代码真的是奇丑务必，虽然功能也能实现。但发觉维护，以及面向接口编程用的渣渣。
+
+不多说废话，直接看效果图
+
+index.jsp页面
+
+![Image text](https://github.com/wenbochang888/MVC/blob/master/img/index.png)
+
+支持模糊查询
+
+![Image text](https://github.com/wenbochang888/MVC/blob/master/img/query.png)
+
+更新判断，并且出错信息不回丢失
+
+![Image text](https://github.com/wenbochang888/MVC/blob/master/img/update.png)
+
+用了差不多一个星期搞定的，跟着视频搞着。
+
+准备花几天做一个类似标准的MVC实现，不看视频，练练手
