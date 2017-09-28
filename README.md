@@ -33,3 +33,9 @@
 ![Image text](https://github.com/wenbochang888/JspLoginDemo/blob/master/kkk.png)
 
 地址在 http://120.77.254.6:8080/kkk/
+
+# 2017年9月28日11:22:27
+
+超级标准的MVC设计模式
+
+![Image text](https://github.com/wenbochang888/MVC/blob/master/img/MVC.png)
