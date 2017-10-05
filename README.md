@@ -61,3 +61,29 @@ index.jsp页面
 用了差不多一个星期搞定的，跟着视频搞着。
 
 准备花几天做一个类似标准的MVC实现，不看视频，练练手
+
+# 2017年10月5日22:32:30
+
+一直说要学BootStrap，花了两天时间把BootStrap官方文档Docs看了看，然后又看了点
+
+博客，知乎教程就直接用了
+
+对于一个纯理工科的人，几乎没有一点设计艺术细胞。
+
+发觉BootStrap的css包装的还是很不错的（不要骂我，哈哈哈，你看我以前的界面就知道了）
+
+我还是觉得BootStrap还是蛮好看的，毕竟我看起来挺舒服的。
+
+LeetCode等一些网站就是BootStrap风格的
+
+这个项目就是就项目来的，上面的MVC设计模式，然后我加了点界面
+
+最后在学spring，学完加点spring的东西进去，hahahah
+
+![Image text](https://github.com/wenbochang888/MVC/blob/master/img/BootStrap1.png)
+
+![Image text](https://github.com/wenbochang888/MVC/blob/master/img/BootStrap2.png)
+
+![Image text](https://github.com/wenbochang888/MVC/blob/master/img/BootStrap3.png)
+
+![Image text](https://github.com/wenbochang888/MVC/blob/master/img/BootStrap4.png)
