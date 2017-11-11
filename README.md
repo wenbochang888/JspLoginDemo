@@ -92,13 +92,17 @@ LeetCode等一些网站就是BootStrap风格的
 
 增加内容：分页，还有年月日的统计
 
+![Image text](https://github.com/wenbochang888/MVC/blob/master/img/HomeWork2Page.png)
+
+![Image text](https://github.com/wenbochang888/MVC/blob/master/img/HomeWork2Year.png)
+
 重点来了，敲黑板。啊哈哈哈。
 
 最近在看《设计模式之禅》这本书，感觉作者真的用心去写这本书，写的也是特别的好。
 
 我也非常的喜欢，奈何自己水平有限，有些并不能理解。
 
-里面有一个话这样说的：客户的需求是一个无底洞，项目要随时的变化
+里面有一个话这样说的：**客户的需求是一个无底洞，项目要随时的变化**
 
 这一句话我真的有深刻的体会，前面我这些小项目，我想要加入一个功能，就要在jsp，servlet，DAO
 
