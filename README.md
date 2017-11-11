@@ -1,4 +1,4 @@
-# JspLoginDemo
+# UPDATE1.0   JspLoginDemo
 
 广东财经大学实验楼八楼机房  2017年7月24日09:26:25
 
@@ -8,7 +8,7 @@
 
 基于MyEclipse开发工具
 
-# Jsp + Servlet + JavaBean MVC小例子
+# UPDATE2.0   Jsp + Servlet + JavaBean MVC小例子
 
 用户提交用户名和密码给后台，后台去数据库中匹配，
 
@@ -18,7 +18,9 @@
 
 利用了MVC三层模型
 
-# JspLoginDemo  2017年8月1日11:52:17
+# UPDATE3.0   JspLoginDemo  
+# 2017年8月1日11:52:17
+
 放在了centos的tomcat的服务器上测试成功
 地址在 http://120.77.254.6:8080/JspLoginDemo/
 
@@ -34,7 +36,8 @@
 
 地址在 http://120.77.254.6:8080/kkk/
 
-# MVC  2017年9月28日11:22:27
+# UPDATE4.0   MVC  
+# 2017年9月28日11:22:27
 
 超级标准的MVC设计模式
 
@@ -62,7 +65,8 @@ index.jsp页面
 
 准备花几天做一个类似标准的MVC实现，不看视频，练练手
 
-# BootStrapMVC  2017年10月5日22:32:30
+# UPDATE5.0   BootStrapMVC  
+# 2017年10月5日22:32:30
 
 一直说要学BootStrap，花了两天时间把BootStrap官方文档Docs看了看，然后又看了点
 
@@ -88,7 +92,9 @@ LeetCode等一些网站就是BootStrap风格的
 
 ![Image text](https://github.com/wenbochang888/MVC/blob/master/img/BootStrap4.png)
 
-# 源于数据库的一个作业 2017年11月11日23:22:42
+
+# UPDATE6.0   源于数据库的一个作业 
+# 2017年11月11日23:22:42
 
 增加内容：分页，还有年月日的统计
 
